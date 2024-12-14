@@ -1,0 +1,6 @@
+{
+    "Global": ["white", "blue"],
+    "Asian": ["red", "gold"],
+    "African": ["earth tones", "vibrant"],
+    "European": ["neutral", "pastel"]
+}
